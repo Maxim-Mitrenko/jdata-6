@@ -1,0 +1,7 @@
+HELP.md
+target/
+.idea
+homework1.iml
+.mvn/
+mvnw
+mvnw.cmd
