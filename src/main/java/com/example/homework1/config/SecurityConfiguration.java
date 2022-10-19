@@ -16,7 +16,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .authorities("random")
                 .and()
                 .withUser("Alex")
-                .password("{noop}")
+                .password("{noop}Qwerty")
                 .authorities("random", "randomList")
                 .and()
                 .withUser("Admin")
